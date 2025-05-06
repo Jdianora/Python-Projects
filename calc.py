@@ -35,4 +35,7 @@ while True:
     if continue_math == "no":
         break
     else:
-        print("Invalid Input")
+        if continue_math == "yes":
+            print("Let's Get Started")
+        else:
+            print("Invalid Input")
