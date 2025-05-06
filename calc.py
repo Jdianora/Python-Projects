@@ -7,8 +7,6 @@ def multiplication (x,y):
 def division (x,y):
     return x/y
 
-results = []
-
 print ("Please Select Which Operation You'd Like To Use.")
 print ("1. Addition")
 print ("2. Subtraction")
